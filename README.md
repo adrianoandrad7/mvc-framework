@@ -4,7 +4,7 @@
 
 .Net Core
 
-## Informações do projeto:
+## Informações do Projeto:
 
 Construção de 3 telas POSTAGENS, ALBUNS e TO-DOs,
 consumindo API do: https://jsonplaceholder.typicode.com/
