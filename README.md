@@ -1,6 +1,6 @@
 ## Projeto Teste Técnico Padawans !!
 
-## Técnologias Usadas :
+## Tecnologias Usadas :
 
 .Net Core
 
