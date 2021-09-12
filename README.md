@@ -1,11 +1,14 @@
-## Projeto Teste Técnico Padawans
+## Projeto Teste Técnico Padawans !!
 
-## Técnologias Usadas 
+## Técnologias Usadas :
 
-C# .Net Core
+.Net Core
 
 ## Informações do projeto
 
-Projeto .Net Core consumindo API do https://jsonplaceholder.typicode.com/
+Construção de 3 telas POSTAGENS, ALBUNS e TO-DOs,
+consumindo API do: https://jsonplaceholder.typicode.com/
+
+
 
 
