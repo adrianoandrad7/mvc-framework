@@ -1,4 +1,4 @@
-## README Projeto Teste Técnico Padawans
+## Projeto Teste Técnico Padawans
 
 ## Técnologias Usadas 
 
