@@ -30,13 +30,5 @@ A aplicação consiste na construção de três telas principais que consomem da
 4. Execute o comando `dotnet run` para iniciar o servidor.
 5. Acesse a aplicação em `http://localhost:5000` (ou na porta configurada).
 
-## Contribuição
 
-Contribuições são bem-vindas! Para contribuir, siga estas etapas:
-
-1. Faça um fork deste repositório.
-2. Crie uma nova branch para a sua feature (`git checkout -b feature/nova-feature`).
-3. Commit suas mudanças (`git commit -m 'Adicionar nova feature'`).
-4. Envie para a branch (`git push origin feature/nova-feature`).
-5. Abra um Pull Request para revisão.
 
